@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo João Pedro Marques Teixeira Peres, sou natural do Paraná, atualmente estou no último semestre de Engenharia de Software na Unicesumar. Viciado em tecnologia e começando minha jornada no ramo da programação.
+ Me chamo João Pedro Marques Teixeira Peres, sou natural do Paraná, atualmente estou no último semestre de Engenharia de Software na Unicesumar. Viciado em tecnologia e começando minha jornada no ramo da programação.
 
 <p align="left">
   
